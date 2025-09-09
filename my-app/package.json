@@ -5,7 +5,7 @@
     "author": "Rajesh Narayana Rao",
     "bugs": "https://github.com/Rajesh Narayana Rao/my-app/issues",
     "dependencies": {
-        "lwc-services": "^1.2.2"
+        "lwc-services": "^3.2.2"
     },
     "devDependencies": {
         "husky": "^2.7.0",
